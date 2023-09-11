@@ -6,8 +6,7 @@ This repository contains the .zolca file used for conducting a life cycle assess
 
 The results of the life cycle assessment are included in (INSERT PUBLISHED PAPER HERE)
 ## Data formats and license requirements
-The database file included in the repository is a .zolca file. [openLCA software](https://www.openlca.org/download/) is a free, open-source software that is required to open the .zolca file (v1.11.0 or higher). While many of the database files within the .zolca file are accessible with the openLCA software, there are several files that require an [ecoinvent](https://ecoinvent.org/offerings/licences/) database license (v3.8) in order to view it. 
-
+The database file included in the repository is a .zolca file. [openLCA software](https://www.openlca.org/download/) is a free, open-source software that is required to open the .zolca file (v1.11.0 or higher). While many of the database files within the .zolca file are accessible with the openLCA software, there are several files that require an [ecoinvent](https://ecoinvent.org/offerings/licences/) database license (v3.8) in order to view it. Note that when downloading ecoinvent databases for the first time, 7-8GB of HDD space is required and may take several hours to import. 
 
 ## Authors
 Development and maintenance of this package and the original .zolca file is supported by the following people at the University of Utah. 

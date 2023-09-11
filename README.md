@@ -9,6 +9,9 @@ The results of the life cycle assessment are included in (INSERT PUBLISHED PAPER
 The data included in the repository are JSON files. [openLCA software](https://www.openlca.org/download/) is a free, open-source software that is required to open the JSON files (v1.11.0 or higher). While many of the databases among the JSON files will be viewable after downloading the openLCA software, there are several JSON files that will require an [ecoinvent](https://ecoinvent.org/offerings/licences/) database license (v3.8) in order to view it. 
 
 ## Instructions for Download
+Download the .zip file and extract JSON files. 
+
+Import JSON files within openLCA.
 Note that when downloading ecoinvent databases for the first time, 7-8GB of HDD space is required and may take several hours to import. 
 
 ## Authors

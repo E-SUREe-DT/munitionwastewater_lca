@@ -10,7 +10,7 @@ The database file included in the repository is a .zolca file. [openLCA software
 
 
 ## Authors
-Development and maintenance of this package and the original .zolca file is supported by the following people at the University of Utah
+Development and maintenance of this package and the original .zolca file is supported by the following people at the University of Utah. 
 
 * Dana Tran
 dana.tran@utah.edu
